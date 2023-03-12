@@ -1,2 +1,1 @@
-# PreCurse-Henry
-Este es un repositorio del módulo 2 del prepcurse de Henry
+Esta es una prueba de como crear un repositorio y clonarlo desde Github a mi escritorio local.
